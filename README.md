@@ -19,19 +19,6 @@ Proje boyunca:
 
 ---
 
-## 🏗️ Proje Yapısı  
-
-Proje aşağıdaki katmanlardan oluşmaktadır:
-
-| Katman | Açıklama |
-|--------|-----------|
-| **EntityLayer** | Veritabanı nesneleri, modeller ve entity sınıfları burada bulunur. |
-| **DataAccessLayer** | Entity Framework kullanılarak CRUD işlemlerinin gerçekleştirildiği katmandır. Repository Pattern kullanılmıştır. |
-| **BusinessLayer** | Uygulamanın iş kurallarını ve veri doğrulama işlemlerini barındırır. |
-| **PresentationLayer** | Kullanıcı arayüzü katmanıdır. Bu projede konsol veya masaüstü (Windows Forms/WPF) arayüzü kullanılabilir. |
-| **EFProject** | Entity Framework yapılandırmaları ve veritabanı bağlantı ayarlarının yapıldığı bölümdür. |
-
----
 
 ## ⚙️ Kullanılan Teknolojiler  
 
