@@ -11,7 +11,7 @@ Bu katman, uygulamanın veritabanı ile etkileşim kurduğu merkezi yapıyı olu
 - Entity sınıflarını veritabanı tablolarına eşlemek  
 - Migration (veritabanı güncellemeleri) işlemlerini yönetmek  
 - CRUD işlemlerini Entity Framework aracılığıyla gerçekleştirmek  
-- Repository Pattern ve Dependency Injection yapısına zemin hazırlamak 
+
 
 ## ⚙️ Kullanılan Teknolojiler  
 
