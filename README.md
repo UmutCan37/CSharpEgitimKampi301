@@ -31,8 +31,6 @@ Proje aşağıdaki katmanlardan oluşmaktadır:
 | **PresentationLayer** | Kullanıcı arayüzü katmanıdır. Bu projede konsol veya masaüstü (Windows Forms/WPF) arayüzü kullanılabilir. |
 | **EFProject** | Entity Framework yapılandırmaları ve veritabanı bağlantı ayarlarının yapıldığı bölümdür. |
 
-Bu yapı sayesinde her katmanın sorumluluğu ayrıştırılmış, kodun okunabilirliği ve sürdürülebilirliği artırılmıştır.
-
 ---
 
 ## ⚙️ Kullanılan Teknolojiler  
